@@ -1,0 +1,6 @@
+@proyecto_2do_parcial_HostAddress = http://localhost:5210
+
+GET {{proyecto_2do_parcial_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

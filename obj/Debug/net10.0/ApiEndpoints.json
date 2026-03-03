@@ -1,0 +1,49 @@
+[
+  {
+    "ContainingType": "proyecto_2do_parcial.Controllers.PlanificadorController",
+    "Method": "RegistrarProceso",
+    "RelativePath": "api/Planificador/registrar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nuevoProceso",
+        "Type": "proyecto_2do_parcial.Models.Proceso",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "proyecto_2do_parcial.Controllers.PlanificadorController",
+    "Method": "SimularDesdeDB",
+    "RelativePath": "api/Planificador/simular-desde-db",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "proyecto_2do_parcial.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[proyecto_2do_parcial.WeatherForecast, proyecto 2do parcial, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

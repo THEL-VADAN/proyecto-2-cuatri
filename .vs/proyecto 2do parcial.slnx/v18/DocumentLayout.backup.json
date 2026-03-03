@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\delac\\OneDrive\\Desktop\\BASIC\\proyecto 2do parcial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67201798-E522-3FDB-C570-8F9389C8E68E}|proyecto 2do parcial.csproj|c:\\users\\delac\\onedrive\\desktop\\basic\\proyecto 2do parcial\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67201798-E522-3FDB-C570-8F9389C8E68E}|proyecto 2do parcial.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67201798-E522-3FDB-C570-8F9389C8E68E}|proyecto 2do parcial.csproj|c:\\users\\delac\\onedrive\\desktop\\basic\\proyecto 2do parcial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67201798-E522-3FDB-C570-8F9389C8E68E}|proyecto 2do parcial.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67201798-E522-3FDB-C570-8F9389C8E68E}|proyecto 2do parcial.csproj|c:\\users\\delac\\onedrive\\desktop\\basic\\proyecto 2do parcial\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67201798-E522-3FDB-C570-8F9389C8E68E}|proyecto 2do parcial.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67201798-E522-3FDB-C570-8F9389C8E68E}|proyecto 2do parcial.csproj|c:\\users\\delac\\onedrive\\desktop\\basic\\proyecto 2do parcial\\controladores\\planificadorcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67201798-E522-3FDB-C570-8F9389C8E68E}|proyecto 2do parcial.csproj|solutionrelative:controladores\\planificadorcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67201798-E522-3FDB-C570-8F9389C8E68E}|proyecto 2do parcial.csproj|c:\\users\\delac\\onedrive\\desktop\\basic\\proyecto 2do parcial\\services\\planificadorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67201798-E522-3FDB-C570-8F9389C8E68E}|proyecto 2do parcial.csproj|solutionrelative:services\\planificadorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67201798-E522-3FDB-C570-8F9389C8E68E}|proyecto 2do parcial.csproj|c:\\users\\delac\\onedrive\\desktop\\basic\\proyecto 2do parcial\\models\\procesos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67201798-E522-3FDB-C570-8F9389C8E68E}|proyecto 2do parcial.csproj|solutionrelative:models\\procesos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Procesos.cs",
+              "DocumentMoniker": "C:\\Users\\delac\\OneDrive\\Desktop\\BASIC\\proyecto 2do parcial\\models\\Procesos.cs",
+              "RelativeDocumentMoniker": "models\\Procesos.cs",
+              "ToolTip": "C:\\Users\\delac\\OneDrive\\Desktop\\BASIC\\proyecto 2do parcial\\models\\Procesos.cs",
+              "RelativeToolTip": "models\\Procesos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T21:20:44.538Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\delac\\OneDrive\\Desktop\\BASIC\\proyecto 2do parcial\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\delac\\OneDrive\\Desktop\\BASIC\\proyecto 2do parcial\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T22:42:42.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\delac\\OneDrive\\Desktop\\BASIC\\proyecto 2do parcial\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\delac\\OneDrive\\Desktop\\BASIC\\proyecto 2do parcial\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T22:35:46.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\delac\\OneDrive\\Desktop\\BASIC\\proyecto 2do parcial\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\delac\\OneDrive\\Desktop\\BASIC\\proyecto 2do parcial\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T22:29:35.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlanificadorService.cs",
+              "DocumentMoniker": "C:\\Users\\delac\\OneDrive\\Desktop\\BASIC\\proyecto 2do parcial\\Services\\PlanificadorService.cs",
+              "RelativeDocumentMoniker": "Services\\PlanificadorService.cs",
+              "ToolTip": "C:\\Users\\delac\\OneDrive\\Desktop\\BASIC\\proyecto 2do parcial\\Services\\PlanificadorService.cs",
+              "RelativeToolTip": "Services\\PlanificadorService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T21:34:01.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlanificadorControllers.cs",
+              "DocumentMoniker": "C:\\Users\\delac\\OneDrive\\Desktop\\BASIC\\proyecto 2do parcial\\controladores\\PlanificadorControllers.cs",
+              "RelativeDocumentMoniker": "controladores\\PlanificadorControllers.cs",
+              "ToolTip": "C:\\Users\\delac\\OneDrive\\Desktop\\BASIC\\proyecto 2do parcial\\controladores\\PlanificadorControllers.cs",
+              "RelativeToolTip": "controladores\\PlanificadorControllers.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T21:22:17.11Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
