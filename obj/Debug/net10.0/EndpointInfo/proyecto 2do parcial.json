@@ -5,7 +5,7 @@
     "version": "1.0"
   },
   "paths": {
-    "/api/Planificador/simular-desde-db": {
+    "/api/Planificador/boot": {
       "get": {
         "tags": [
           "Planificador"
@@ -41,6 +41,40 @@
             }
           }
         },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Planificador/ejecutar/{algoritmo}": {
+      "get": {
+        "tags": [
+          "Planificador"
+        ],
+        "parameters": [
+          {
+            "name": "algoritmo",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Planificador/reiniciar": {
+      "delete": {
+        "tags": [
+          "Planificador"
+        ],
         "responses": {
           "200": {
             "description": "OK"

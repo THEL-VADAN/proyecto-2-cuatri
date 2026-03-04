@@ -150,3 +150,4 @@ C:\Users\delac\OneDrive\Desktop\BASIC\proyecto 2do parcial\bin\Debug\net10.0\Swa
 C:\Users\delac\OneDrive\Desktop\BASIC\proyecto 2do parcial\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\delac\OneDrive\Desktop\BASIC\proyecto 2do parcial\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\delac\OneDrive\Desktop\BASIC\proyecto 2do parcial\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\delac\OneDrive\Desktop\BASIC\proyecto 2do parcial\obj\Debug\net10.0\proyecto 2do parcial.sourcelink.json

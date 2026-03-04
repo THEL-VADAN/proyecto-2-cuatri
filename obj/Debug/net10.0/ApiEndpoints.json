@@ -1,6 +1,32 @@
 [
   {
     "ContainingType": "proyecto_2do_parcial.Controllers.PlanificadorController",
+    "Method": "BootSystem",
+    "RelativePath": "api/Planificador/boot",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "proyecto_2do_parcial.Controllers.PlanificadorController",
+    "Method": "EjecutarSimulacion",
+    "RelativePath": "api/Planificador/ejecutar/{algoritmo}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "algoritmo",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "proyecto_2do_parcial.Controllers.PlanificadorController",
     "Method": "RegistrarProceso",
     "RelativePath": "api/Planificador/registrar",
     "HttpMethod": "POST",
@@ -17,9 +43,9 @@
   },
   {
     "ContainingType": "proyecto_2do_parcial.Controllers.PlanificadorController",
-    "Method": "SimularDesdeDB",
-    "RelativePath": "api/Planificador/simular-desde-db",
-    "HttpMethod": "GET",
+    "Method": "ReiniciarSimulacion",
+    "RelativePath": "api/Planificador/reiniciar",
+    "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
     "Parameters": [],
